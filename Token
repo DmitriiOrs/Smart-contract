@@ -49,4 +49,4 @@ function allowance(address _owner, address _spender) public view returns (uint25
 }
 
 mapping(address => mapping(address => uint256)) private _allowances;
-
+}
